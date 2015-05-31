@@ -19,11 +19,11 @@
           Clientes <span class="caret"></span>
         </a>
         <ul class="dropdown-menu" role="menu">
-          <li><a href="#">Cadastrar</a></li>
-          <li><a href="#">Alterar</a></li>
-          <li><a href="#">Excluir</a></li>
+          <li><a href="/cadcliente.jsp">Cadastrar</a></li>
+          <li><a href="/altcliente.jsp">Alterar</a></li>
+          <li><a href="/altcliente.jsp">Excluir</a></li>
           <li class="divider"></li>
-          <li><a href="#">Listar Clientes</a></li>
+          <li><a href="/listcliente.jsp">Listar Clientes</a></li>
         </ul>
       </li>
       <li role="presentation" class="dropdown">
@@ -31,15 +31,15 @@
           Jogos <span class="caret"></span>
         </a>
         <ul class="dropdown-menu" role="menu">
-          <li><a href="#">Cadastrar</a></li>
-          <li><a href="#">Alterar</a></li>
-          <li><a href="#">Excluir</a></li>
+          <li><a href="/cadjogos.jsp">Cadastrar</a></li>
+          <li><a href="/altjogos.jsp">Alterar</a></li>
+          <li><a href="/altjogos.jsp">Excluir</a></li>
           <li class="divider"></li>
-          <li><a href="#">Listar Jogos</a></li>
+          <li><a href="/listjogos.jsp">Listar Jogos</a></li>
         </ul>
       </li>
-      <li role="presentation"><a href="#">Locação</a></li>
-      <li role="presentation" class="active"><a href="#">Sair</a></li>
+      <li role="presentation"><a href="/locacao.jsp">Locação</a></li>
+      <li role="presentation" class="active"><a href="/index.jsp">Sair</a></li>
     </ul>
      
         
